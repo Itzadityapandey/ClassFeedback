@@ -1,7 +1,8 @@
-cv2
 tensorflow.keras.models
 numpy
 pandas
 tkinter
 matplotlib.pyplot
 seaborn
+opencv-contrib-python   
+opencv-python-headless       
