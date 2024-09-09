@@ -1,10 +1,3 @@
-# ClassFeedback
-
-
-Certainly! Below is the documentation for your classroom feedback system project, detailing the purpose, installation, and usage of both training and feedback generation components.
-
----
-
 # Classroom Feedback System Documentation
 
 ## Overview
