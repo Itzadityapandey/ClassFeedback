@@ -1,7 +1,7 @@
 # Classroom Feedback System Documentation
 
 
-![Demo Preview](media/classfeedback.gif)
+![Demo Preview](classfeedback.gif)
 ## Overview
 
 The Classroom Feedback System is designed to evaluate and analyze student emotions during a class session. It uses a Convolutional Neural Network (CNN) to detect facial expressions in real-time and provides feedback based on the emotional data collected.
